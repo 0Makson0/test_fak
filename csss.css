@@ -1,0 +1,22 @@
+body{
+	
+	background-image: url(завантаження.jfif) ;
+	background-repeat: no-repeat;
+	background-position:50%  230px;
+}
+
+h1 {
+	left: 45%;
+  	top: 90px;
+
+  	position: absolute;
+  	font-size: 60px;
+}
+span {
+	top: 40px;
+	left: 34%;
+	color: #f0a311;
+  	position: absolute;
+  	font-size: 50px;
+  	text-shadow: 5px 6px 5px #f0a311 ;
+}
